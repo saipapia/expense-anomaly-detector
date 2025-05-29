@@ -15,16 +15,16 @@ Here are some screenshots from the app in action:
 ![App Image 1](img/app_img_1.PNG)
 
 ### 🔹 Anomaly Detection Using Robust Z-Score
-![App Image 2](img/app_img_2.png)
+![App Image 2](img/app_img_2.PNG)
 
 ### 🔹 Isolation Forest-Based Detection
-![App Image 3](img/app_img_3.png)
+![App Image 3](img/app_img_3.PNG)
 
 ### 🔹 Filter by Category and Month
-![App Image 4](img/app_img_4.png)
+![App Image 4](img/app_img_4.PNG)
 
 ### 🔹 Export Analyzed Results
-![App Image 5](img/app_img_5.png)
+![App Image 5](img/app_img_5.PNG)
 
 ---+
 ## 🚀 Features
