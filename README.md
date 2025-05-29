@@ -12,7 +12,7 @@ It supports filtering by **month**, **category**, and adjusting **anomaly thresh
 Here are some screenshots from the app in action:
 
 ### 🔹 Home Page & File Upload
-![App Image 1](img/app_img_1.png)
+![expense_anomaly_detector](img/app_img_1.png)
 
 ### 🔹 Anomaly Detection Using Robust Z-Score
 ![App Image 2](img/app_img_2.png)
