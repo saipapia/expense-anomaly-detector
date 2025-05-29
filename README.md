@@ -7,7 +7,26 @@ This project is a **Streamlit-based interactive web app** that helps users detec
 It supports filtering by **month**, **category**, and adjusting **anomaly thresholds**, and displays results with clean, insightful visualizations.
 
 ---
+## 🖼️ App Preview
 
+Here are some screenshots from the app in action:
+
+### 🔹 Home Page & File Upload
+![App Image 1](img/app_img_1.png)
+
+### 🔹 Anomaly Detection Using Robust Z-Score
+![App Image 2](img/app_img_2.png)
+
+### 🔹 Isolation Forest-Based Detection
+![App Image 3](img/app_img_3.png)
+
+### 🔹 Filter by Category and Month
+![App Image 4](img/app_img_4.png)
+
+### 🔹 Export Analyzed Results
+![App Image 5](img/app_img_5.png)
+
+---
 ## 🚀 Features
 
 - 📊 Upload your expense CSV
